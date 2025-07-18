@@ -23,7 +23,7 @@ body {
   position: fixed;
   background-color: rgb(26, 26, 26);
   display: flex;
-  justify-content: right;
+  justify-content: center;
 }
 
 .container {
