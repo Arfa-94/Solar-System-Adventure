@@ -11,6 +11,7 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background-image: url("starry-night-wallpaper.jpg");
   background-size: 100%;
+  text-align: center;
 }
 
 #header {
@@ -29,7 +30,7 @@ nav {
   padding: 25px;
   background-color: rgb(26, 26, 26);
   display: flex;
-  justify-content: right;
+  justify-content: center;
 }
 
 .container {
